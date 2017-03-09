@@ -25,4 +25,4 @@ github.com/AyahCastelle/scheduleBuilder
 License
 -------
 
-The project is licensed under the MIT license
+The project is licensed under the GNU AGPLv3 license
